@@ -149,7 +149,3 @@ Feel free to submit PRs or open discussions to improve this project.
 
 ```
 
-
-If you like — I can provide a complete patch (diff) ready to commit for your README that removes the hardcoded credential placeholders and adds a note about `.env` usage.
-::contentReference[oaicite:2]{index=2}
-```
