@@ -131,5 +131,4 @@ Feel free to submit PRs or open discussions to improve this project.
 
 ### 🗣️ Start building with LiveKit today — your voice agent is just the beginning!
 
-```
 
