@@ -85,7 +85,7 @@ Voice-Agent-Production/
 
 ### 1️⃣ Clone the repo  
 ```bash
-git clone https://github.com/your-username/Voice-Agent-Production.git  
+git clone https://github.com/Valiev-Koyiljon/Voice-Agent-Production.git  
 cd Voice-Agent-Production
 ````
 
