@@ -73,11 +73,9 @@ This project integrates the core components of a modern, production-level voice 
 
 Voice-Agent-Production/
 │
-├── client/                # Web/mobile client for streaming audio
-├── server/                # Voice agent backend (STT + LLM + TTS)
-├── config/                # Environment + provider settings
-├── metrics/               # Performance logging utilities
-└── README.md              # You're here!
+├── optimizing_latency.ipynb # Notebook for measuring and optimizing latency
+├── Voice_Agents_Components.ipynb # Notebook explaining STT, LLM, TTS components
+└── README.md # This file
 
 ````
 
@@ -99,21 +97,7 @@ npm install
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Configure credentials
 
-Create a file (for example `.env` — but **make sure this file is ignored by version control**, e.g. listed in `.gitignore`) and add your actual credentials / API keys there.
-
-### 4️⃣ Run the server
-
-```bash
-npm run dev     # or python main.py depending on your backend
-```
-
-### 5️⃣ Launch the client
-
-Open local client or deployed web app and start talking!
-
----
 
 ## 🎯 Learning Objectives
 
